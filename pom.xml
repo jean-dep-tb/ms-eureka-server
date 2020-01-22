@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.2.2.RELEASE</version>
+		<version>2.2.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>spring.boot.webflux.ms.eureka.app</groupId>
+	<groupId>spring.boot.webflux.ms.eureka</groupId>
 	<artifactId>spring.boot.webflux.ms.eureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-webflux-ms-eureka-server</name>
+	<name>spring-boot-webflux-ms-eureka</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
